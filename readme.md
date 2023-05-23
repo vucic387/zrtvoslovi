@@ -119,7 +119,7 @@ Vjerujem kako su mnogima poznate činjenice o životnom putu navedenog trojca. S
     
     = 1.0.1 =
     2023/05/19
-    * Ispravljene pogreške u 5 zapisa. Nastale pri pretvaranju iz pdf u csv oblik zbog povremenog preskakanja u drugi red prilikom OCR-a
+    * Ispravljene pogreške u 255 zapisa. Nastale pri pretvaranju iz pdf u csv oblik zbog povremenog preskakanja u drugi red prilikom OCR-a, i zbog nedostatka kategorije žrtve (poginuo/la/lo) za žrtve sa uzrokom stradanja "od zaostale bombe" i "od zaostale mine"
     
     = 1.0.2 =
     2023/05/23
